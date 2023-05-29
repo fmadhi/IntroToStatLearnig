@@ -1,6 +1,6 @@
 # IntroToStatLearnig
 Using Python to go through exercises in the the book An intro to Sta Learning 
-I am using I am using Ubuntu 22 in windows subsytem for linux and below are some setup I am using to set my env
+I am using I am using Ubuntu 22 in windows subsytem for linux and below are some setup I am using to set my env.
 
 
     sudo apt-get update
