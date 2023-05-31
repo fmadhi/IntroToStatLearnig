@@ -42,3 +42,5 @@ Open an admin PowerShell, navigate to the root of the repo and run this:
     curl https://raw.githubusercontent.com/seebi/dircolors-solarized/master/dircolors.ansi-dark --output ~/.dircolors
     ## set colors for LS_COLORS
     eval `dircolors ~/.dircolors`
+
+Different dirs were creted for each chapter.
